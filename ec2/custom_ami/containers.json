@@ -1,9 +1,10 @@
 [
     {
-     "Description":"vm import",
-     "Format":"ova",
-     "UserBucket": {
-        "S3Bucket": "fedora-server-image",
-        "S3Key": "fedora-server-axiom.ova"
-}
-}]
+        "Description":"vm import",
+        "Format":"ova",
+        "UserBucket": {
+            "S3Bucket": "fedora-server-image",
+            "S3Key": "fedora-server-axiom.ova"
+        }
+    }
+]
